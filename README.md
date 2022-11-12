@@ -7,6 +7,8 @@
 
 [![Mohammed Saif's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohammed-Saif0)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammed-Saif0&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Haa bhai kya haal hai? Kya zarurat padd gai idhar?
 <!--
 **Mohammed-Saif0/Mohammed-Saif0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
